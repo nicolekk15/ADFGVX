@@ -99,7 +99,7 @@ void doDecrypt(){        //解密处理
 
 # 3. 界面设计
 
-![界面布局](source\pictures/Untitled.png)
+![界面布局](source/pictures/Untitled.png)
 
 界面布局
 
