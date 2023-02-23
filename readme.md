@@ -134,39 +134,39 @@ void doDecrypt(){        //解密处理
     | 5 | X | 9 | x | t | 7 | 8 | l |
 2. 加密示例1
    
-    ![Untitled](source\pictures/Untitled%201.png)
+    ![Untitled](source/pictures/Untitled%201.png)
     
-    ![Untitled](source\pictures/Untitled%202.png)
+    ![Untitled](source/pictures/Untitled%202.png)
     
 3. 加密示例2
    
-    ![Untitled](source\pictures/Untitled%203.png)
+    ![Untitled](source/pictures/Untitled%203.png)
     
-    ![Untitled](source\pictures/Untitled%204.png)
+    ![Untitled](source/pictures/Untitled%204.png)
     
 4. 加密示例3
    
-    ![Untitled](source\pictures/Untitled%205.png)
+    ![Untitled](source/pictures/Untitled%205.png)
     
-    ![Untitled](source\pictures/Untitled%206.png)
+    ![Untitled](source/pictures/Untitled%206.png)
     
 5. 解密示例1
    
-    ![Untitled](source\pictures/Untitled%207.png)
+    ![Untitled](source/pictures/Untitled%207.png)
     
-    ![Untitled](source\pictures/Untitled%208.png)
+    ![Untitled](source/pictures/Untitled%208.png)
     
 6. 解密示例2
    
-    ![Untitled](source\pictures/Untitled%209.png)
+    ![Untitled](source/pictures/Untitled%209.png)
     
-    ![Untitled](source\pictures/Untitled%2010.png)
+    ![Untitled](source/pictures/Untitled%2010.png)
     
 7. 解密示例3
    
-    ![Untitled](source\pictures/Untitled%2011.png)
+    ![Untitled](source/pictures/Untitled%2011.png)
     
-    ![Untitled](source\pictures/Untitled%2012.png)
+    ![Untitled](source/pictures/Untitled%2012.png)
     
 
 # 4. 文件结构
