@@ -99,7 +99,7 @@ void doDecrypt(){        //解密处理
 
 # 3. 界面设计
 
-![界面布局](ADFGVX%E5%AF%86%E7%A0%81-%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C%20d0c8b64267e74d2896674762b0b08163/Untitled.png)
+![界面布局](source\pictures/Untitled.png)
 
 界面布局
 
@@ -120,7 +120,7 @@ void doDecrypt(){        //解密处理
 ### 3.2.2 使用示例
 
 1. 分解密钥示例
-    
+   
     0aeyz5p1ufiognhv3cq2brdsjk6wm49xt78l
     
     |  |  | 0 | 1 | 2 | 3 | 4 | 5 |
@@ -133,40 +133,40 @@ void doDecrypt(){        //解密处理
     | 4 | V | j | k | 6 | w | m | 4 |
     | 5 | X | 9 | x | t | 7 | 8 | l |
 2. 加密示例1
+   
+    ![Untitled](source\pictures/Untitled%201.png)
     
-    ![Untitled](ADFGVX%E5%AF%86%E7%A0%81-%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C%20d0c8b64267e74d2896674762b0b08163/Untitled%201.png)
-    
-    ![Untitled](ADFGVX%E5%AF%86%E7%A0%81-%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C%20d0c8b64267e74d2896674762b0b08163/Untitled%202.png)
+    ![Untitled](source\pictures/Untitled%202.png)
     
 3. 加密示例2
+   
+    ![Untitled](source\pictures/Untitled%203.png)
     
-    ![Untitled](ADFGVX%E5%AF%86%E7%A0%81-%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C%20d0c8b64267e74d2896674762b0b08163/Untitled%203.png)
-    
-    ![Untitled](ADFGVX%E5%AF%86%E7%A0%81-%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C%20d0c8b64267e74d2896674762b0b08163/Untitled%204.png)
+    ![Untitled](source\pictures/Untitled%204.png)
     
 4. 加密示例3
+   
+    ![Untitled](source\pictures/Untitled%205.png)
     
-    ![Untitled](ADFGVX%E5%AF%86%E7%A0%81-%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C%20d0c8b64267e74d2896674762b0b08163/Untitled%205.png)
-    
-    ![Untitled](ADFGVX%E5%AF%86%E7%A0%81-%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C%20d0c8b64267e74d2896674762b0b08163/Untitled%206.png)
+    ![Untitled](source\pictures/Untitled%206.png)
     
 5. 解密示例1
+   
+    ![Untitled](source\pictures/Untitled%207.png)
     
-    ![Untitled](ADFGVX%E5%AF%86%E7%A0%81-%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C%20d0c8b64267e74d2896674762b0b08163/Untitled%207.png)
-    
-    ![Untitled](ADFGVX%E5%AF%86%E7%A0%81-%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C%20d0c8b64267e74d2896674762b0b08163/Untitled%208.png)
+    ![Untitled](source\pictures/Untitled%208.png)
     
 6. 解密示例2
+   
+    ![Untitled](source\pictures/Untitled%209.png)
     
-    ![Untitled](ADFGVX%E5%AF%86%E7%A0%81-%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C%20d0c8b64267e74d2896674762b0b08163/Untitled%209.png)
-    
-    ![Untitled](ADFGVX%E5%AF%86%E7%A0%81-%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C%20d0c8b64267e74d2896674762b0b08163/Untitled%2010.png)
+    ![Untitled](source\pictures/Untitled%2010.png)
     
 7. 解密示例3
+   
+    ![Untitled](source\pictures/Untitled%2011.png)
     
-    ![Untitled](ADFGVX%E5%AF%86%E7%A0%81-%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C%20d0c8b64267e74d2896674762b0b08163/Untitled%2011.png)
-    
-    ![Untitled](ADFGVX%E5%AF%86%E7%A0%81-%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C%20d0c8b64267e74d2896674762b0b08163/Untitled%2012.png)
+    ![Untitled](source\pictures/Untitled%2012.png)
     
 
 # 4. 文件结构
